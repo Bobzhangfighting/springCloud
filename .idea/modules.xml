@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_ribbon/ribbon.iml" filepath="$PROJECT_DIR$/spring_ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_bus/spring_bus.iml" filepath="$PROJECT_DIR$/spring_bus/spring_bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_config_client/spring_config_client.iml" filepath="$PROJECT_DIR$/spring_config_client/spring_config_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_config_server/spring_config_server.iml" filepath="$PROJECT_DIR$/spring_config_server/spring_config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_eurekaClient/spring_eurekaClient.iml" filepath="$PROJECT_DIR$/spring_eurekaClient/spring_eurekaClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_eurekaServer/spring_eurekaServer.iml" filepath="$PROJECT_DIR$/spring_eurekaServer/spring_eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_feign/spring_feign.iml" filepath="$PROJECT_DIR$/spring_feign/spring_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_hystrix/spring_hystrix.iml" filepath="$PROJECT_DIR$/spring_hystrix/spring_hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_zipkin_client/spring_zipkin_client.iml" filepath="$PROJECT_DIR$/spring_zipkin_client/spring_zipkin_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_zipkin_client2/spring_zipkin_client2.iml" filepath="$PROJECT_DIR$/spring_zipkin_client2/spring_zipkin_client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_zuui/spring_zuui.iml" filepath="$PROJECT_DIR$/spring_zuui/spring_zuui.iml" />
+    </modules>
+  </component>
+</project>

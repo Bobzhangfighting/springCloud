@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_eurekaClient/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_eurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_zuui/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_bus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_zipkin_client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_zipkin_client2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
